@@ -1,4 +1,4 @@
-# [CSS Battle - #70 Froggy](https://cssbattle.dev/play/29)
+# [CSS Battle - #29 Suffocate](https://cssbattle.dev/play/29)
 
 ## [My solution](https://arpadgbondor.github.io/CSSBattle-29/)
 
